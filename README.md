@@ -118,7 +118,7 @@ DASHBOARD CHARTS
 	•	Academic pressure and uncertainty may significantly impact students
 	
 	
-4.Does sleep differ across student-working groups?
+4. Does sleep differ across student-working groups?
 
 ✅ Insight:
 	•	Sleep quality shows only slight differences across groups
@@ -163,20 +163,22 @@ This helps uncover;
 - Market growth patterns
 
 ### RECOMMENDATION   
-1️⃣Target High-Risk Groups
+1️⃣ 🧠  Target High-Risk Groups
 	•	Focus mental health support on:
 	•	Students
 	•	Non-binary individuals
 
-2️⃣ Promote Sleep Awareness
+
+2️⃣ 😴 Promote Sleep Awareness
 	•	Encourage better sleep habits
 	•	Introduce “digital detox” initiatives
 
-3️⃣ 📉 3. Reduce Stress Triggers
+
+3️⃣ 📉  Reduce Stress Triggers
 	•	Provide stress management tools
 	•	Encourage healthier coping mechanisms beyond caffeine
 
-4️⃣ 📊 4. Localized Mental Health Strategies
+4️⃣ 📊 Localized Mental Health Strategies
 	•	Tailor interventions based on country-specific trends
 
 

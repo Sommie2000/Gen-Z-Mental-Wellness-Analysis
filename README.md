@@ -87,8 +87,16 @@ DASHBOARD CHARTS
 <img width="811" height="459" alt="BMW sales Dashboard" src="https://github.com/user-attachments/assets/59a21d37-aa23-4089-baf2-ba121821fdd6" />
 
 
-### KEY INSIGHTS 
-1. X7 is the best selling BMW model that generated the highest revenue while the lowest generated revenue is the Mini series model
+### KEY QUESTIONS AND INSIGHTS 
+1. Which gender experiences the highest anxiety?
+
+✅ Insight:
+	•	Non-binary individuals show the highest anxiety levels (35%)
+	•	They also record the highest caffeine intake
+
+💡 Interpretation:
+	•	This group may be experiencing higher stress exposure or coping behaviors
+
 2. IX is the best selling BMW unit
   > But here is what is surprising: IX Series model is the most sold unit yet X7 series generated the highest revenue ($286B)
   > Which proves an important business lesson, high sales volume does not always mean high revenue

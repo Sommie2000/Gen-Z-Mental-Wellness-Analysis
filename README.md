@@ -62,17 +62,15 @@ DATASET SAMPLE PREVIEW:
 ### TOOLS
 Excel |Power Query Editor
   
-### EXCEL DASHBOARD 
+### DASHBOARD 
 KPI Cards
-1. 💹 Total Revenue: $1571B
-2. 🚙 Total Units Sold: $25M
-3. 🚗 BEV Share:
-   > Percentage of battery electric vehicles (EV adoption trends) (+14%YoY)
-4. 🚗 Premium Share:
-   > Proportion of premium vehicles sold (-2%YoY)
-5.   Growth Metrics:
-   * YoY Revenue Growth (+2%YoY)
-   * YoY Units Growth (+2%YoY)
+1.  Average Anxiety Score: Measures overall stress level
+2. Average Wellbeing Index: Indicates general mental wellness
+3. Average Screen Time: Tracks digital exposure
+4. Average Caffeine Intake: Lifestyle stimulant behavior
+5.   Highest Burnout Risk %: Identifies at-risk population
+   > These KPIs provide a quick snapshot of mental health status and lifestyle patterns
+   
 
 
 DASHBOARD CHARTS

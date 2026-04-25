@@ -164,9 +164,9 @@ This helps uncover;
 
 ### RECOMMENDATION   
 1️⃣ 🧠  Target High-Risk Groups
-	•	Focus mental health support on:
-	•	Students
-	•	Non-binary individuals
+	> Focus mental health support on:
+	> Students
+	> •Non-binary individuals
 
 
 2️⃣ 😴 Promote Sleep Awareness

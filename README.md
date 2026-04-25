@@ -96,6 +96,7 @@ DASHBOARD CHARTS
 💡 Interpretation:
 	•	This group may be experiencing higher stress exposure or coping behaviors
 
+
 2.  How does sleep quality affect wellbeing?
 
 ✅ Insight:
@@ -104,8 +105,9 @@ DASHBOARD CHARTS
 
 💡 Interpretation:
 	•	Sleep is a major driver of mental health improvement
+	
 
-3.  3. Who is more stressed: Students or Workers?
+3.  Who is more stressed: Students or Workers?
 
 ✅ Insight:
 	•	Students have:
@@ -115,6 +117,7 @@ DASHBOARD CHARTS
 💡 Interpretation:
 	•	Academic pressure and uncertainty may significantly impact students
 	
+	
 4.Does sleep differ across student-working groups?
 
 ✅ Insight:
@@ -123,6 +126,7 @@ DASHBOARD CHARTS
 💡 Interpretation:
 	•	Sleep alone does not fully explain anxiety differences
 	•	Other factors (stress, workload) play a role
+	
 
 5. How does caffeine consumption vary by gender?
 
@@ -132,6 +136,7 @@ DASHBOARD CHARTS
 💡 Interpretation:
 	•	Possible link between stress and stimulant use
 	
+	
 6. Which country has the highest anxiety levels?
 
 ✅ Insight:
@@ -139,13 +144,14 @@ DASHBOARD CHARTS
 
 💡 Interpretation:
 	•	Cultural, social, or economic factors may influence mental health trends
+	
 
 ### KEY TAKEAWAY
 	•	📱 Lifestyle factors significantly impact mental health
 	•	😴 Sleep quality is strongly linked to better wellbeing
 	•	🎓 Students are the most vulnerable group
 	•	⚧️ Non-binary individuals show higher stress indicators
-	•	🌍 Mental health trends vary across regions
+	•	🌍 Non-binary individuals show higher stress indicators
 	
 ### INTERACTIVE ANALYSIS 
 To enhance usability, I integrated Year and Region Slicer, allowing dynamic filtering of the performance metrics across different years and regions. 

@@ -72,7 +72,6 @@ KPI Cards
    > These KPIs provide a quick snapshot of mental health status and lifestyle patterns
    
 
-
 DASHBOARD CHARTS
 
 - 💹 Top model that generated the highest revenue is X7 (Revenue by Model)
@@ -97,17 +96,57 @@ DASHBOARD CHARTS
 💡 Interpretation:
 	•	This group may be experiencing higher stress exposure or coping behaviors
 
-2. IX is the best selling BMW unit
-  > But here is what is surprising: IX Series model is the most sold unit yet X7 series generated the highest revenue ($286B)
-  > Which proves an important business lesson, high sales volume does not always mean high revenue
-3. Regional sales breakdown - This shows all models sold in each region and X7 model top the highest in all the regions then followed by IX model
-4. China is the top selling region with the highest generated revenue ($402B)
-5. BEV_Share vs Premium share:
- > This revealed an interesting strategic shift, while premium share declined slightly by 2% (-2%YoY), overall revenue increased, supported by a strong 14% YoY growth in BEV share. This suggests that accelerated electric vehicle adoption is reshaping the traditional product mix without compromising financial performance. The data reflects a strategic transition phase — where electrification is not only growing rapidly but actively driving revenue expansion
-6. Economic Indicators:
- > GDP Growth vs Fuel Price Index, The chart compares the trend of fuel price index and GDP growth from 2018 to 2025. Fuel prices show a gradual increase over the period, while GDP growth fluctuates and slightly declines. This suggests that rising fuel costs may place pressure on economic growth and consumer purchasing power, which can influence vehicle demand and aaccelerate the shift toward electric mobility.
+2.  How does sleep quality affect wellbeing?
 
- 
+✅ Insight:
+	•	A strong upward trend exists between sleep quality and wellbeing
+	•	Better sleep → higher wellbeing scores
+
+💡 Interpretation:
+	•	Sleep is a major driver of mental health improvement
+
+3.  3. Who is more stressed: Students or Workers?
+
+✅ Insight:
+	•	Students have:
+	•	Highest anxiety levels
+	•	Lowest wellbeing scores
+
+💡 Interpretation:
+	•	Academic pressure and uncertainty may significantly impact students
+	
+4.Does sleep differ across student-working groups?
+
+✅ Insight:
+	•	Sleep quality shows only slight differences across groups
+
+💡 Interpretation:
+	•	Sleep alone does not fully explain anxiety differences
+	•	Other factors (stress, workload) play a role
+
+5. How does caffeine consumption vary by gender?
+
+✅ Insight:
+	•	Non-binary individuals consume the most caffeine
+
+💡 Interpretation:
+	•	Possible link between stress and stimulant use
+	
+6. Which country has the highest anxiety levels?
+
+✅ Insight:
+	•	Pakistan shows the highest average anxiety score (4.8)
+
+💡 Interpretation:
+	•	Cultural, social, or economic factors may influence mental health trends
+
+### KEY TAKEAWAY
+	•	📱 Lifestyle factors significantly impact mental health
+	•	😴 Sleep quality is strongly linked to better wellbeing
+	•	🎓 Students are the most vulnerable group
+	•	⚧️ Non-binary individuals show higher stress indicators
+	•	🌍 Mental health trends vary across regions
+	
 ### INTERACTIVE ANALYSIS 
 To enhance usability, I integrated Year and Region Slicer, allowing dynamic filtering of the performance metrics across different years and regions. 
 This helps uncover;
@@ -118,20 +157,23 @@ This helps uncover;
 - Market growth patterns
 
 ### RECOMMENDATION   
-1️⃣ Accelerate Electrification Strategy
-- The strong growth in BEV share, BMW should continue investing in electric vehicle production, innovation, and infrastructure to meet increasing demand and stay competitive in the evolving automotive market
+1️⃣Target High-Risk Groups
+	•	Focus mental health support on:
+	•	Students
+	•	Non-binary individuals
 
-2️⃣ Optimize Product Mix
-- With a slight decline in premium share, BMW can reassess its product positioning by balancing luxury offerings with more accessible or electric alternatives to capture a broader market segment
+2️⃣ Promote Sleep Awareness
+	•	Encourage better sleep habits
+	•	Introduce “digital detox” initiatives
 
-3️⃣ Leverage High-Performing Regions
-- Regional performance insights should guide targeted marketing and expansion strategies, focusing on regions with the highest revenue contribution and growth potential
+3️⃣ 📉 3. Reduce Stress Triggers
+	•	Provide stress management tools
+	•	Encourage healthier coping mechanisms beyond caffeine
 
-4️⃣ Monitor Economic Indicators
-- Since fuel prices and GDP growth impact consumer purchasing power, BMW should incorporate macroeconomic trends into forecasting and pricing strategies to remain resilient during economic fluctuations
+4️⃣ 📊 4. Localized Mental Health Strategies
+	•	Tailor interventions based on country-specific trends
 
-5️⃣ Strengthen Data-Driven Decisions
-- Continuously using data analytics for demand forecasting, customer preferences, and market trends will help BMW make proactive and informed strategic decisions
+
 
 ### DATA SOURCE
 This data was gotten from Kaggle

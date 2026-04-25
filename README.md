@@ -19,21 +19,31 @@ This project explores the relationship between lifestyle habits, demographics, a
 ### DATASET OVERVIEW
 
 COLUMNS:
-- Year
-- Month	
-- Days	
-- Region	
-- Model	
-- Units_Sold	
-- Avg_Price_EUR	
-- Revenue_EUR
-- BEV_Share
-- Premium_Share
-- GDP_Growth
-- Fuel_Price_Index
+- Age
+- Gender
+- Country
+- Student_Working_Status
+- Daily_Social_Media_Hours
+- Screen_Time_Hours
+- Night_Scrolling_Frequency
+- Online_Gaming_Hours
+- Content_Type_Preference
+- Exercise_Frequency_per_Week
+- Daily_Sleep_Hours
+- Caffeine_Intake_Cups
+- Study_Work_Hours_per_Day
+- Overthinking_Score
+- Anxiety_Score
+- Mood_Stability_Score
+- Social_Comparison_Index
+- Sleep_Quality_Score
+- Motivation_Level
+- Emotional_Fatigue_Score
+- Wellbeing_Index
+- Burnout_Risk
 
 DATASET SAMPLE PREVIEW:
-|Year|	Month| Days| Region|	Model| Units_Sold| Avg_Price_EUR| Revenue_EUR| BEV_Share| Premium_Share| GDP_Growth| Fuel_Price_Index|
+|Age|	Gender| Country | Student_Working_Status|Daily_Social_Media_Hours| Screen_Time_Hours| Night_Scrolling_Frequency| Online_Gaming_Hours| Content_Type_Preference| Exercise_Frequency_per_Week| Daily_Sleep_Hours| Caffeine_Intake_Cups|Study_Work_Hours_per_Day|Overthinking_Score| Anxiety_Score|Mood_Stability_Score|Motivation_Level|Emotional_Fatigue_Score| Wellbeing_Index|Burnout_Risk|
 |----|--------|-----|-------|------|-----------|--------------|------------|----------|--------------|-----------|-----------------|
 |2019|	1/4/1900|	Wed|	Europe|	MINI|	$2.6K|	$40K|	$105M|	0.06|	17.63|	3.98|	1.04|
 |2020|	1/4/1900|	Wed|	USA|	MINI|	$2.5K|	$43K|	$110M|	0.061|	19.81|	3.52|	1.16|

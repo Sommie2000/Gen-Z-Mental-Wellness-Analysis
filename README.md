@@ -74,56 +74,56 @@ DASHBOARD CHARTS
 
 1. ❓ Which gender experiences the highest anxiety?
 
-✅ Insight:
-•	Non-binary individuals show the highest anxiety levels (35%)
-•	They also record the highest caffeine intake
+   ✅ Insight:
+   -	Non-binary individuals show the highest anxiety levels (35%)
+   - They also record the highest caffeine intake
 
-💡 Interpretation:
-•	This group may be experiencing higher stress exposure or coping behaviors
-
+  💡 Interpretation:
+  - This group may be experiencing higher stress exposure or coping behaviors
+ 
 2. ❓ How does sleep quality affect wellbeing?
 
-✅ Insight:
-•	A strong upward trend exists between sleep quality and wellbeing
-•	Better sleep → higher wellbeing scores
-
-💡 Interpretation:
-•	Sleep is a major driver of mental health improvement
+   ✅ Insight:
+   - A strong upward trend exists between sleep quality and wellbeing
+   - Better sleep → higher wellbeing scores
+  
+   💡 Interpretation:
+   - Sleep is a major driver of mental health improvement
 
 3. ❓ Who is more stressed: Students or Workers?
 
-✅ Insight:
-•	Students have:
-•	Highest anxiety levels
-•	Lowest wellbeing scores
+  ✅ Insight:
+  - Students have:
+  - Highest anxiety levels
+  - Lowest wellbeing scores
 
-💡 Interpretation:
-•	Academic pressure and uncertainty may significantly impact students
+  💡 Interpretation:
+  - Academic pressure and uncertainty may significantly impact students
 
 4. ❓ Does sleep differ across student-working groups?
 
-✅ Insight:
-•	Sleep quality shows only slight differences across groups
+  ✅ Insight:
+  - Sleep quality shows only slight differences across groups
 
-💡 Interpretation:
-•	Sleep alone does not fully explain anxiety differences
-•	Other factors (stress, workload) play a role
+  💡 Interpretation:
+  - Sleep alone does not fully explain anxiety differences
+  - Other factors (stress, workload) play a role
 
 5. ❓ How does caffeine consumption vary by gender?
 
-✅ Insight:
-•	Non-binary individuals consume the most caffeine
+   ✅ Insight:
+  - Non-binary individuals consume the most caffeine
 
-💡 Interpretation:
-•	Possible link between stress and stimulant use
+   💡 Interpretation:
+  - Possible link between stress and stimulant use
 
 6. ❓ Which country has the highest anxiety levels?
 
-✅ Insight:
-•	Pakistan shows the highest average anxiety score (4.8)
+   ✅ Insight:
+   - Pakistan shows the highest average anxiety score (4.8)
 
-💡 Interpretation:
-	•	Cultural, social, or economic factors may influence mental health trends
+   💡 Interpretation:
+	- Cultural, social, or economic factors may influence mental health trends
 ### DASHBOARD
 
 <img width="811" height="459" alt="BMW sales Dashboard" src="https://github.com/user-attachments/assets/59a21d37-aa23-4089-baf2-ba121821fdd6" />

@@ -4,13 +4,15 @@ This project explores the relationship between lifestyle habits, demographics, a
 
 ### TABLE OF CONTENT
 * [Project Overview](#project-overview)
+* [Tools](#tools)
 * [Dataset Overview](#dataset-overview)
 * [Data Cleaning](#data-cleaning)
-* [Tools](#tools)
-* [Excel Dashboard](#excel-dashboard)
+* [Data Exploration](#data-exploration)
 * [Dashboard](#dashboard)
-* [Key Insights](#key-insights)
-* [Interactive Analysis](#interactive-analysis)
+* [Power Bi Dashboard](#power-bi-dashboard)
+* [Key Questions And Insights](#key-questions-and-insights)
+* [Key Takeaway](#key-takeaway)
+* [Interactive Features](#interactive-features)
 * [Recommendation](#recommendation)
 * [Data Source](#data-source)
 * [Conclusion](#conclusion)
@@ -62,8 +64,12 @@ DATASET SAMPLE PREVIEW:
 |25| Male| Pakistan | Student | 4.41|7.34|	4.51 |	3.37 | Educational | 2.19| 7.92 |	0.58 |6.61| 6.1|4.78|4.85|5.86|7.27|5.17|5.96|3.97|High|
 
 ### DATA CLEANING
-- Changed date and amount datatype to date and currency format 
-- Removed, duplicate, missing or invalid values
+- Handling missing values
+- Standardizing categorical values
+- Data Normalization
+- Created Unique Identifiers
+- Data type validation 
+- Removed duplicate and missing values
 
 
 ### DATA EXPLORATION 
@@ -108,7 +114,7 @@ GROUP BY u.Student_Working_Status
 ORDER BY sleep_quality_Score DESC;
 ```
 
-5.Caffeine intake by Gender
+5. Caffeine intake by Gender
 ```SQL
 SELECT u.gender,
 ROUND(AVG(Caffeine_Intake_Cups), 2)  AS Avg_Caffeine_Intake_Cups
@@ -129,7 +135,7 @@ ORDER BY avg_anxiety DESC;
 ```
 
 
-### POWER BI DASHBOARD 
+### DASHBOARD 
 KPI Cards
 - Average Anxiety Score: Measures overall stress level
 - Average Wellbeing Index: Indicates general mental wellness

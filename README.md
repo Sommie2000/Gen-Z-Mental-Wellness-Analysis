@@ -72,6 +72,21 @@ DASHBOARD CHARTS
 
 - Key Business Questions & Insights
 
+- 😩Anxiety Score by Gender (Non-Binary gender has the highest (anxiety score)
+- 😊Wellness Level by Sleep Quality Level (Upward Trend between Wellness Level and Sleep Quality Level)
+- 😩 Anxiety Level and Wellness Level by Student Working Status (Students has the highest anxiety level and the Lowest wellbeing level)
+- 🛌 Sleep Quality by Student Working Status (Working Status shows slight differnce amongst all status as the highest)
+- ☕ Caffeine Intake by Gender (Non-Binary Gender has the highest caffeine intake by 34%)
+- 😩Anxiety Level by Country (Pakistan recorded the highest by 99.8%)
+
+
+### POWER BI DASHBOARD
+
+<img width="960" height="496" alt="gen z dashboard power bi" src="https://github.com/user-attachments/assets/ceb5a008-6e5d-4120-8664-cef6e502bae5" />
+
+
+
+### KEY QUESTIONS AND INSIGHTS 
 1. ❓ Which gender experiences the highest anxiety?
 
    ✅ Insight:
@@ -121,71 +136,7 @@ DASHBOARD CHARTS
 
     💡 Interpretation:
 	 - Cultural, social, or economic factors may influence mental health trends
-### POWER BI DASHBOARD
 
-<img width="960" height="496" alt="gen z dashboard power bi" src="https://github.com/user-attachments/assets/ceb5a008-6e5d-4120-8664-cef6e502bae5" />
-
-
-
-### KEY QUESTIONS AND INSIGHTS 
-1. Which gender experiences the highest anxiety?
-
-✅ Insight:
-	•	Non-binary individuals show the highest anxiety levels (35%)
-	•	They also record the highest caffeine intake
-
-💡 Interpretation:
-	•	This group may be experiencing higher stress exposure or coping behaviors
-
-
-2.  How does sleep quality affect wellbeing?
-
-✅ Insight:
-	•	A strong upward trend exists between sleep quality and wellbeing
-	•	Better sleep → higher wellbeing scores
-
-💡 Interpretation:
-	•	Sleep is a major driver of mental health improvement
-	
-
-3.  Who is more stressed: Students or Workers?
-
-✅ Insight:
-	•	Students have:
-	•	Highest anxiety levels
-	•	Lowest wellbeing scores
-
-💡 Interpretation:
-	•	Academic pressure and uncertainty may significantly impact students
-	
-	
-4. Does sleep differ across student-working groups?
-
-✅ Insight:
-	•	Sleep quality shows only slight differences across groups
-
-💡 Interpretation:
-	•	Sleep alone does not fully explain anxiety differences
-	•	Other factors (stress, workload) play a role
-	
-
-5. How does caffeine consumption vary by gender?
-
-✅ Insight:
-	•	Non-binary individuals consume the most caffeine
-
-💡 Interpretation:
-	•	Possible link between stress and stimulant use
-	
-	
-6. Which country has the highest anxiety levels?
-
-✅ Insight:
-	•	Pakistan shows the highest average anxiety score (4.8)
-
-💡 Interpretation:
-	•	Cultural, social, or economic factors may influence mental health trends
-	
 
 ### KEY TAKEAWAY
 	•	📱 Lifestyle factors significantly impact mental health

@@ -74,10 +74,10 @@ DASHBOARD CHARTS
 
 - 😩 Anxiety Score by Gender (Non-Binary gender has the highest Anxiety Score
 - 😊 Wellness Level by Sleep Quality Level (Upward Trend between Wellness Level and Sleep Quality Level)
-- 😩 Anxiety Level and Wellness Level by Student Working Status (Students has the highest Anxiety Level and the Lowest Wellbeing Level)
+- 👨‍🎓👩‍🎓 Anxiety Level and Wellness Level by Student Working Status (Students has the highest Anxiety Level and the Lowest Wellbeing Level)
 - 🛌 Sleep Quality by Student Working Status (Working Status shows slight differnce amongst all Status as the highest)
 - ☕ Caffeine Intake by Gender (Non-Binary Gender has the highest caffeine intake by 34%)
-- 😩 Anxiety Level by Country (Pakistan recorded the highest by 99.8%)
+- 🗺 Anxiety Level by Country (Pakistan recorded the highest by 99.8%)
 
 
 ### POWER BI DASHBOARD

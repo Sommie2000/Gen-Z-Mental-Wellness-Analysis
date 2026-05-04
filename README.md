@@ -67,9 +67,31 @@ DATASET SAMPLE PREVIEW:
 
 
 ### DATA EXPLORATION 
+3. Student working status vs Anxiety Score and Wellbeing Index
+   ```sql
+SELECT u.Student_Working_Status,
+ROUND(AVG(m.wellbeing_index),2) AS Wellbeing
+FROM users u
+JOIN mental_health m ON u.user_id = m.user_id
+GROUP BY u.Student_Working_Status
+ORDER BY Wellbeing DESC;
+```
 ```SQL
-
-
+SELECT u.Student_Working_Status AS Status,
+ROUND(AVG(m.Anxiety_Score),2) AS Anxiety_score
+FROM users u
+JOIN mental_health m ON u.user_id = m.user_id
+GROUP BY u.Student_Working_Status
+ORDER BY Anxiety_score DESC;
+```
+6. Which country has the highest anxiety score?
+```SQL
+SELECT u.country,
+ROUND(AVG(m.Anxiety_Score),2) AS avg_anxiety
+FROM users u
+JOIN mental_health m ON u.user_id = m.user_id
+GROUP BY u.country
+ORDER BY avg_anxiety DESC;
 ```
 
 

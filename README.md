@@ -70,13 +70,60 @@ KPI Cards
 
 DASHBOARD CHARTS
 
-- 💹 Top model that generated the highest revenue is X7 (Revenue by Model)
-- 🚗 Top model that generated the highest unit sold is IX (Unit sold by Model)
-- 🗺️ Top selling region is China (Revenue by Region)
-- 📊 Regional sales breakdown - Total Revenue by Model and by Region (This shows all models sold in each region and X7 model top in all the regions
-- BEV_Share vs Premium Share: This revealed an interesting strategic shift while premium share declined slightly by 2% (-2%YoY), overall revenue increased, supported by a strong 14% YoY growth in BEV_Share
-- GDP Growth vs Fuel Price Index: The chart compares the trend of fuel price index and GDP growth from 2018 to 2025
+- Key Business Questions & Insights
 
+1. ❓ Which gender experiences the highest anxiety?
+
+✅ Insight:
+•	Non-binary individuals show the highest anxiety levels (35%)
+•	They also record the highest caffeine intake
+
+💡 Interpretation:
+•	This group may be experiencing higher stress exposure or coping behaviors
+
+2. ❓ How does sleep quality affect wellbeing?
+
+✅ Insight:
+•	A strong upward trend exists between sleep quality and wellbeing
+•	Better sleep → higher wellbeing scores
+
+💡 Interpretation:
+•	Sleep is a major driver of mental health improvement
+
+3. ❓ Who is more stressed: Students or Workers?
+
+✅ Insight:
+•	Students have:
+•	Highest anxiety levels
+•	Lowest wellbeing scores
+
+💡 Interpretation:
+•	Academic pressure and uncertainty may significantly impact students
+
+4. ❓ Does sleep differ across student-working groups?
+
+✅ Insight:
+•	Sleep quality shows only slight differences across groups
+
+💡 Interpretation:
+•	Sleep alone does not fully explain anxiety differences
+•	Other factors (stress, workload) play a role
+
+5. ❓ How does caffeine consumption vary by gender?
+
+✅ Insight:
+•	Non-binary individuals consume the most caffeine
+
+💡 Interpretation:
+•	Possible link between stress and stimulant use
+
+6. ❓ Which country has the highest anxiety levels?
+
+✅ Insight:
+•	Pakistan shows the highest average anxiety score (4.8)
+
+💡 Interpretation:
+	•	Cultural, social, or economic factors may influence mental health trends
 ### DASHBOARD
 
 <img width="811" height="459" alt="BMW sales Dashboard" src="https://github.com/user-attachments/assets/59a21d37-aa23-4089-baf2-ba121821fdd6" />

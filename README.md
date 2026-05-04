@@ -67,23 +67,57 @@ DATASET SAMPLE PREVIEW:
 
 
 ### DATA EXPLORATION 
-3. Student working status vs Anxiety Score and Wellbeing Index
+1. Anxiety score by Gender
+   ```SQL
+SELECT u.gender,
+ROUND(AVG(m.Anxiety_Score),2) AS Anxiety_score
+FROM users u
+JOIN mental_health m ON u.user_id = m.user_id
+GROUP BY u.gender
+ORDER BY Anxiety_score DESC;
+```
+
+2.Wellbeing index by sleep quality
+```SQL
+SELECT ROUND(AVG(m.sleep_quality_score),2) AS sleep_quality_Score,
+RROUND(AVG(m.wellbeing_index),2) AS Wellbeing
+FROM engagement_lifestyle e
+JOIN mental_health m ON e.user_id = m.user_id
+GROUP BY e.sleep_quality_Score 
+ORDER BY wellbeing_index DESC;
+```
+
+3. Student working status vs Wellbeing Index and Anxiety Score
    ```SQL
 SELECT u.Student_Working_Status,
-ROUND(AVG(m.wellbeing_index),2) AS Wellbeing
+ROUND(AVG(m.wellbeing_index),2) AS Wellbeing,
+ROUND(AVG(m.Anxiety_Score),2) AS Anxiety_Score
 FROM users u
 JOIN mental_health m ON u.user_id = m.user_id
 GROUP BY u.Student_Working_Status
 ORDER BY Wellbeing DESC;
 ```
+
+4. Sleep quality by Student Working Status
 ```SQL
 SELECT u.Student_Working_Status AS Status,
-ROUND(AVG(m.Anxiety_Score),2) AS Anxiety_score
+ROUND(AVG(m.sleep_quality_score),2) AS sleep_quality_Score
 FROM users u
 JOIN mental_health m ON u.user_id = m.user_id
 GROUP BY u.Student_Working_Status
-ORDER BY Anxiety_score DESC;
+ORDER BY sleep_quality_Score DESC;
 ```
+
+5.Caffeine intake by Gender
+```SQL
+SELECT u.gender,
+ROUND(AVG(Caffeine_Intake_Cups), 2)  AS Avg_Caffeine_Intake_Cups
+FROM users u
+JOIN engagement_lifestyle e ON u.user_id = e.user_id
+GROUP BY u.gender
+ORDER BY Avg_Caffeine_Intake_Cups DESC;
+```
+
 6. Which country has the highest anxiety score?
 ```SQL
 SELECT u.country,
@@ -112,7 +146,7 @@ DASHBOARD CHARTS
 - 😩 Anxiety Score by Gender (Non-Binary gender has the highest Anxiety Score
 - 📈 Wellness Level by Sleep Quality Level (Upward Trend between Wellness Level and Sleep Quality Level)
 - 👨‍🎓👩‍🎓 Anxiety Level and Wellness Level by Student Working Status (Students has the highest Anxiety Level and the Lowest Wellbeing Level)
-- 🛌 Sleep Quality by Student Working Status (Working Status shows slight differnce amongst all Status as the highest)
+- 🛌 Sleep Quality by Student Working Status (Both Status is recorded as the highest with avearge point of 6.59, while working status is 6.50 and student status is 6.47)
 - ☕ Caffeine Intake by Gender (Non-Binary Gender has the highest caffeine intake by 34%)
 - 🗺 Anxiety Level by Country (Pakistan recorded the highest by 99.8%)
 

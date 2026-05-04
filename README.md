@@ -82,7 +82,7 @@ DASHBOARD CHARTS
 
 ### POWER BI DASHBOARD
 
-<img width="960" height="496" alt="gen z dashboard power bi" src="https://github.com/user-attachments/assets/ceb5a008-6e5d-4120-8664-cef6e502bae5" />
+<img width="960" height="496" alt="gen z dashboard power bi" src="https://github.com/user-attachments/assets/ceb5a008-6e5d-4120-8664-cef6e502bae5"/>
 
 
 
@@ -145,14 +145,12 @@ DASHBOARD CHARTS
 	•	⚧️ Non-binary individuals show higher stress indicators
 	•	🌍 Non-binary individuals show higher stress indicators
 	
-### INTERACTIVE ANALYSIS 
-To enhance usability, I integrated Year and Region Slicer, allowing dynamic filtering of the performance metrics across different years and regions. 
-This helps uncover;
-- Year-over-year performance change
-- Shifts in product demand
-- Trend Analysis
-- Performance tracking by period
-- Market growth patterns
+### INTERACTIVE FEATURES 
+To enhance analysis and user experience, I integrated slicers in the dashboard:
+ * Age Slicer (Explore how mental varies across age group)
+ * Country Slicer (Compare trends across different regions)
+> These allows users to dynamically filter insights and uncover deeper patterns
+
 
 ### RECOMMENDATION   
 1️⃣ 🧠  Target High-Risk Groups
@@ -177,11 +175,13 @@ This helps uncover;
 
 ### DATA SOURCE
 This data was gotten from Kaggle
-[Download here](https://www.kaggle.com/datasets/mohamedamiralkrdawy/bmw-global-sales-analysis-20182025)
+[Download here](https://www.kaggle.com/datasets/hammadansari7/gen-z-mental-wellness-and-digital-lifestyle-patterns)
 
 ### CONCLUSION
-* This analysis reinforced an important lesson, Sales performance doesn't exist in isolation, it's influenced by product strategy, economic conditions, and market positioning. The analysis of BMW’s global sales data from 2018 to 2025 shows a steady growth in overall performance, supported by consistent revenue trends and strong market contributions across key regions.
-* A major highlight is the significant increase in Battery Electric Vehicle (BEV) share, indicating a clear shift toward electrification. Meanwhile, premium vehicle share remains relatively stable with slight fluctuations, suggesting a gradual evolution in product mix. Additionally, external factors such as rising fuel prices and fluctuating GDP growth provide important context for changing consumer behavior and demand patterns.
+* This analysis highlights that mental health in Gen Z is strongly influenced by lifestyle and demographic factors.
+* While sleep quality improves wellbeing, high anxiety levels among students and non-binary individuals suggest a need for targeted mental health interventions and inclusive mental health strategies by leveraging data-driven insights, organizations can design more effective wellness programs that address both behavioral and demographic risk factors.
+
+
 
 
 

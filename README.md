@@ -68,7 +68,7 @@ DATASET SAMPLE PREVIEW:
 
 ### DATA EXPLORATION 
 1. Anxiety score by Gender
-   ```SQL
+ ```SQL
 SELECT u.gender,
 ROUND(AVG(m.Anxiety_Score),2) AS Anxiety_score
 FROM users u
@@ -88,7 +88,7 @@ ORDER BY wellbeing_index DESC;
 ```
 
 3. Student working status vs Wellbeing Index and Anxiety Score
-   ```SQL
+ ```SQL
 SELECT u.Student_Working_Status,
 ROUND(AVG(m.wellbeing_index),2) AS Wellbeing,
 ROUND(AVG(m.Anxiety_Score),2) AS Anxiety_Score

@@ -155,22 +155,22 @@ To enhance analysis and user experience, I integrated slicers in the dashboard:
 
 
 ### RECOMMENDATION   
-1️⃣ 🧠  Target High-Risk Groups:
-	 Focus mental health support on;
+1. 🧠  Target High-Risk Groups
+	 Focus mental health support on:
 	 * Students
 	 * Non-binary individuals
 
 
-2️⃣ 😴 Promote Sleep Awareness:
+2. 😴 Promote Sleep Awareness
     - Encourage better sleep habits
 	- Introduce “digital detox” initiatives
 
 
-3️⃣ 📉  Reduce Stress Triggers:
+3.  📉  Reduce Stress Triggers
 	- Provide stress management tools
 	- Encourage healthier coping mechanisms beyond caffeine
 
-4️⃣ 📊 Localized Mental Health Strategies:
+4. 📊 Localized Mental Health Strategies
 	- Tailor interventions based on country-specific trends
 
 

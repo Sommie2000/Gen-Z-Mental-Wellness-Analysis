@@ -1,5 +1,7 @@
 # Gen-Z-Mental-Wellness-Analysis
 This project explores the relationship between lifestyle habits, demographics, and mental health outcomes among Gen Z users. The goal is to uncover key drivers of anxiety and wellbeing and provide actionable insights for better decision-making in mental wellness strategies.
+
+
 ### TABLE OF CONTENT
 * [Project Overview](#project-overview)
 * [Dataset Overview](#dataset-overview)
@@ -13,8 +15,17 @@ This project explores the relationship between lifestyle habits, demographics, a
 * [Data Source](#data-source)
 * [Conclusion](#conclusion)
 
+
 ### PROJECT OVERVIEW
 This project explores the relationship between lifestyle habits, demographics, and mental health outcomes among Gen Z users. The goal is to uncover key drivers of anxiety and wellbeing and provide actionable insights for better decision-making in mental wellness strategies.
+
+
+### TOOLS
+- SQL (PostgreSQL)
+  > Data cleaning, transformation and querying
+- Power BI
+  > Data visualization and interactive dashboard creation
+  
 
 ### DATASET OVERVIEW
 
@@ -54,12 +65,14 @@ DATASET SAMPLE PREVIEW:
 - Changed date and amount datatype to date and currency format 
 - Removed, duplicate, missing or invalid values
 
-### TOOLS
-- SQL (PostgreSQL)
-  > Data cleaning, transformation and querying
-- Power BI
-  > Data visualization and interactive dashboard creation
-  
+
+### DATA EXPLORATION 
+```SQL
+
+
+```
+
+
 ### POWER BI DASHBOARD 
 KPI Cards
 - Average Anxiety Score: Measures overall stress level

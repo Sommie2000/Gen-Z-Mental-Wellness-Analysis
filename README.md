@@ -60,12 +60,12 @@ DATASET SAMPLE PREVIEW:
   
 ### POWER BI DASHBOARD 
 KPI Cards
-	- Average Anxiety Score: Measures overall stress level
-	- Average Wellbeing Index: Indicates general mental wellness
-	- Average Screen Time: Tracks digital exposure
-	- Average Caffeine Intake: Lifestyle stimulant behavior
-	- Highest Burnout Risk %: Identifies at-risk population
-   > 👉 These KPIs provide a quick snapshot of mental health status and lifestyle patterns
+- Average Anxiety Score: Measures overall stress level
+- Average Wellbeing Index: Indicates general mental wellness
+- Average Screen Time: Tracks digital exposure
+- Average Caffeine Intake: Lifestyle stimulant behavior
+- Highest Burnout Risk %: Identifies at-risk population
+  > 👉 These KPIs provide a quick snapshot of mental health status and lifestyle patterns
    
 
 DASHBOARD CHARTS

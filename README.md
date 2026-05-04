@@ -55,8 +55,10 @@ DATASET SAMPLE PREVIEW:
 - Removed, duplicate, missing or invalid values
 
 ### TOOLS
-- SQL
+- SQL (PostgreSQL)
+  > Data cleaning, transformation and querying
 - Power BI
+  > Data visualization and interactive dashboard creation
   
 ### POWER BI DASHBOARD 
 KPI Cards

@@ -50,24 +50,22 @@ DATASET SAMPLE PREVIEW:
 |25| Male| Pakistan | Student | 3.07|7.45|	2.96 |	2.85 | Entertainment | 3.4 | 6.39 |	0.53 |7.79| 4.06|5.67|6.03|2.41|6.48|4.82|6.69|3.72|High|
 |25| Male| Pakistan | Student | 4.41|7.34|	4.51 |	3.37 | Educational | 2.19| 7.92 |	0.58 |6.61| 6.1|4.78|4.85|5.86|7.27|5.17|5.96|3.97|High|
 
-[Dataset file showing the pivot tables][bmw_global_sales_2018_2025.xlsx](https://github.com/user-attachments/files/26570700/bmw_global_sales_2018_2025.xlsx)
-
-
 ### DATA CLEANING
 - Changed date and amount datatype to date and currency format 
 - Removed, duplicate, missing or invalid values
 
 ### TOOLS
-Excel |Power Query Editor
+-SQL
+-Power BI
   
-### DASHBOARD 
+### POWER BI DASHBOARD 
 KPI Cards
-1.  Average Anxiety Score: Measures overall stress level
-2. Average Wellbeing Index: Indicates general mental wellness
-3. Average Screen Time: Tracks digital exposure
-4. Average Caffeine Intake: Lifestyle stimulant behavior
-5.   Highest Burnout Risk %: Identifies at-risk population
-   > These KPIs provide a quick snapshot of mental health status and lifestyle patterns
+	•	Average Anxiety Score: Measures overall stress level
+	•	Average Wellbeing Index: Indicates general mental wellness
+	•	Average Screen Time: Tracks digital exposure
+	•	Average Caffeine Intake: Lifestyle stimulant behavior
+	•	Highest Burnout Risk %: Identifies at-risk population
+   > 👉 These KPIs provide a quick snapshot of mental health status and lifestyle patterns
    
 
 DASHBOARD CHARTS

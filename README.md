@@ -76,7 +76,7 @@ DASHBOARD CHARTS
 
    ✅ Insight:
    -	Non-binary individuals show the highest anxiety levels (35%)
-   - They also record the highest caffeine intake
+     > They also record the highest caffeine intake
 
   💡 Interpretation:
   - This group may be experiencing higher stress exposure or coping behaviors
@@ -85,7 +85,7 @@ DASHBOARD CHARTS
 
    ✅ Insight:
    - A strong upward trend exists between sleep quality and wellbeing
-   - Better sleep → higher wellbeing scores
+   > Better sleep → higher wellbeing scores
   
    💡 Interpretation:
    - Sleep is a major driver of mental health improvement
@@ -93,9 +93,7 @@ DASHBOARD CHARTS
 3. ❓ Who is more stressed: Students or Workers?
 
   ✅ Insight:
-  - Students have:
-  - Highest anxiety levels
-  - Lowest wellbeing scores
+  - Students have: Highest anxiety levels and the Lowest wellbeing scores
 
   💡 Interpretation:
   - Academic pressure and uncertainty may significantly impact students
@@ -106,8 +104,7 @@ DASHBOARD CHARTS
   - Sleep quality shows only slight differences across groups
 
   💡 Interpretation:
-  - Sleep alone does not fully explain anxiety differences
-  - Other factors (stress, workload) play a role
+  - Sleep alone does not fully explain anxiety differences, Other factors (stress, workload) play a role
 
 5. ❓ How does caffeine consumption vary by gender?
 

@@ -86,6 +86,8 @@ DASHBOARD CHARTS
 
 
 
+
+
 ### KEY QUESTIONS AND INSIGHTS 
 1. ❓ Which gender experiences the highest anxiety?
 
@@ -153,23 +155,23 @@ To enhance analysis and user experience, I integrated slicers in the dashboard:
 
 
 ### RECOMMENDATION   
-1️⃣ 🧠  Target High-Risk Groups
-	> Focus mental health support on:
-	* Students
-	* Non-binary individuals
+1️⃣ 🧠  Target High-Risk Groups:
+	 Focus mental health support on;
+	 * Students
+	 * Non-binary individuals
 
 
-2️⃣ 😴 Promote Sleep Awareness
-	•	Encourage better sleep habits
-	•	Introduce “digital detox” initiatives
+2️⃣ 😴 Promote Sleep Awareness:
+    - Encourage better sleep habits
+	- Introduce “digital detox” initiatives
 
 
-3️⃣ 📉  Reduce Stress Triggers
-	•	Provide stress management tools
-	•	Encourage healthier coping mechanisms beyond caffeine
+3️⃣ 📉  Reduce Stress Triggers:
+	- Provide stress management tools
+	- Encourage healthier coping mechanisms beyond caffeine
 
-4️⃣ 📊 Localized Mental Health Strategies
-	•	Tailor interventions based on country-specific trends
+4️⃣ 📊 Localized Mental Health Strategies:
+	- Tailor interventions based on country-specific trends
 
 
 

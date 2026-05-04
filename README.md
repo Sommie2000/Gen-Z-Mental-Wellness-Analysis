@@ -43,18 +43,10 @@ COLUMNS:
 - Burnout_Risk
 
 DATASET SAMPLE PREVIEW:
-|Age| Gender| Country | Student_Working_Status|Daily_Social_Media_Hours| Screen_Time_Hours| Night_Scrolling_Frequency| 
-|Online_Gaming_Hours| Content_Type_Preference| Exercise_Frequency_per_Week| Daily_Sleep_Hours| 
-|Caffeine_Intake_Cups|Study_Work_Hours_per_Day|Overthinking_Score|Anxiety_Score|Mood_Stability_Score|Social_Comparison_Index|
-|Sleep_Quality_Score| Motivation_Level|Emotional_Fatigue_Score| Wellbeing_Index|Burnout_Risk|
-|----|--------|-----|-------------------------|-------------------------|------------------|-------------------------|
-|------------------|-------------------------|----------------------------|-------------------|
-|--------------------|-------------------------|------------------|-------------|-------------------|----------------|
-|------------------------|----------------|--------------------|----------------|------------|
-|24| Male| Canada |	Working | 4.81 |6.93 |	2.61 |	2.07 | News | 5.41 | 6.84 |	1.52 |11.42| 4.95| 
-|4.13|5.74|4.67|6.27|6.13|6.45|4.28|Medium|
-|21| Male| USA | Student | 4.16|7.94 |	1.85 |	3.58 | Gaming | 3.41 | 7.88 |	2.23 |6.98| 5.91| 
-|3.63|5.75|5.38|7.37|6.27|3.74|5.23|Medium|
+|Age| Gender| Country | Student_Working_Status|Daily_Social_Media_Hours| Screen_Time_Hours| Night_Scrolling_Frequency|Online_Gaming_Hours| Content_Type_Preference|Exercise_Frequency_per_Week| Daily_Sleep_Hours|Caffeine_Intake_Cups|Study_Work_Hours_per_Day|Overthinking_Score|Anxiety_Score|Mood_Stability_Score|Social_Comparison_Index|Sleep_Quality_Score| Motivation_Level|Emotional_Fatigue_Score| Wellbeing_Index|Burnout_Risk|
+|----|--------|-----|-------------------------|-------------------------|------------------|-------------------------|------------------|-------------------------|-----------------|----------------|-------------------|--------------------|-------------------------|------------------|-------------|-------------------|----------------|------------------|----------------|----------------|------------|
+|24| Male| Canada |	Working | 4.81 |6.93 |	2.61 |	2.07 | News | 5.41 | 6.84 |	1.52 |11.42| 4.95|4.13|5.74|4.67|6.27|6.13|6.45|4.28|Medium|
+|21| Male| USA | Student | 4.16|7.94 |	1.85 |	3.58 | Gaming | 3.41 | 7.88 |	2.23 |6.98| 5.91|3.63|5.75|5.38|7.37|6.27|3.74|5.23|Medium|
 
 
 [Dataset file showing the pivot tables][bmw_global_sales_2018_2025.xlsx](https://github.com/user-attachments/files/26570700/bmw_global_sales_2018_2025.xlsx)

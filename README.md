@@ -43,13 +43,15 @@ COLUMNS:
 - Burnout_Risk
 
 DATASET SAMPLE PREVIEW:
-|Age|	Gender| Country | Student_Working_Status|Daily_Social_Media_Hours| Screen_Time_Hours| Night_Scrolling_Frequency| Online_Gaming_Hours| Content_Type_Preference| Exercise_Frequency_per_Week| Daily_Sleep_Hours| Caffeine_Intake_Cups|Study_Work_Hours_per_Day|Overthinking_Score| Anxiety_Score|Mood_Stability_Score|Motivation_Level|Emotional_Fatigue_Score| Wellbeing_Index|Burnout_Risk|
-|----|--------|-----|-------|------|-----------|--------------|------------|----------|--------------|-----------|-----------------|
-|2019|	1/4/1900|	Wed|	Europe|	MINI|	$2.6K|	$40K|	$105M|	0.06|	17.63|	3.98|	1.04|
-|2020|	1/4/1900|	Wed|	USA|	MINI|	$2.5K|	$43K|	$110M|	0.061|	19.81|	3.52|	1.16|
-|2018|	1/1/1900|	Sun|	Europe|	MINI|	$2.6K|	$43K|	$110M|	0.013|	19.12|	3.5|	1|
-|2021|	1/2/1900|	Mon|	Europe|	MINI|	$2.8K|	$40K|	$113M|	0.084|	15.12|	4.2|	1.14|
-|2018|	1/10/1900|	Tue|	China|	MINI|	$2.7K|	$42K|	$114M|	0.025|	19.19|	5.28|	0.92|
+|Age| Gender| Country | Student_Working_Status|Daily_Social_Media_Hours| Screen_Time_Hours| Night_Scrolling_Frequency| Online_Gaming_Hours| Content_Type_Preference| Exercise_Frequency_per_Week| Daily_Sleep_Hours| Caffeine_Intake_Cups|Study_Work_Hours_per_Day|Overthinking_Score|Anxiety_Score|Mood_Stability_Score|Social_Comparison_Index| Sleep_Quality_Score| Motivation_Level|Emotional_Fatigue_Score| Wellbeing_Index|Burnout_Risk|
+|----|--------|-----|-------------------------|-------------------------|------------------|-------------------------|
+------------------|-------------------------|----------------------------|-------------------|
+--------------------|-------------------------|------------------|-------------|-------------------|----------------|
+------------------------|----------------|--------------------|----------------|------------|
+|24| Male| Canada |	Working | 4.81 |6.93 |	2.61 |	2.07 | News | 5.41 | 6.84 |	1.52 |11.42| 4.95| 
+4.13|5.74|4.67|6.27|6.13|6.45|4.28|Medium|
+|21| Male| USA |	Student | 4.16|7.94 |	1.85 |	3.58 | Gaming | 3.41 | 7.88 |	2.23 |6.98| 5.91| 
+3.63|5.75|5.38|7.37|6.27|3.74|5.23|Medium|
 
 
 [Dataset file showing the pivot tables][bmw_global_sales_2018_2025.xlsx](https://github.com/user-attachments/files/26570700/bmw_global_sales_2018_2025.xlsx)

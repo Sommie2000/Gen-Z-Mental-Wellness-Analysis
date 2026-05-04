@@ -68,7 +68,7 @@ DATASET SAMPLE PREVIEW:
 
 ### DATA EXPLORATION 
 3. Student working status vs Anxiety Score and Wellbeing Index
-   ```sql
+   ```SQL
 SELECT u.Student_Working_Status,
 ROUND(AVG(m.wellbeing_index),2) AS Wellbeing
 FROM users u
